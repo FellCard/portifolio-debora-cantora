@@ -58,7 +58,7 @@ portifolio-debora/
 │    └──script.js
 ├──img/
 │    ├──debora-perfil.png
-│    └──foto-deb-2.jpg
+│    └──debora-performance.jpg
 └──videos/
     └──ainda-bem-vanessa-da-mata.mp4
     └──alianca.mp4
