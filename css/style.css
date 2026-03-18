@@ -5,11 +5,6 @@
 }
 
 :root {
-    /*CORES DA PRIMEIRA PARTE DO SITE*/
-    --primary-color: #b68c5a;
-    --dark-color: #1c1c1c;
-    --light-color: #ffffff;
-    --gray-color: #f5f5f5;
 
     /*CORES E FONTES DA SEGUNDA PARTE DO SITE*/
 
@@ -103,7 +98,7 @@ body {
 
 .hero {
     min-height: 100vh;
-    padding-top: 120px; /*espaço por casusa do header fixo*/
+    padding-top: 120px; /*espaço por causa do header fixo*/
     display: flex;
     align-items: center;
     justify-content: center;

@@ -1,6 +1,6 @@
 # 🎙️ Débora - Cantora para Casamentos
 
-Este projeto é um **site de portifólio profissional** desenvolvido para apresentar o trabalho da Débora Rosa, cantora com foco em cerimônias de casamento e eventos especiais.
+Este projeto é um **site de portifólio profissional** desenvolvido para apresentar o trabalho de Débora Rosa, cantora com foco em cerimônias de casamento e eventos especiais.
 
 O site foi criado com o objetivo de:
 - Divulgar o trabalho artístico
