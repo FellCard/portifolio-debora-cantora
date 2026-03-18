@@ -51,8 +51,6 @@ body {
 .logo-name {
     font-family: var(--fonte-titulo);
     font-size: 1.4rem;
-    /*font-weight: 600; => peso da fonte
-    letter-spacing: 2px; => espaço entre letras*/
     color: var(--cor-primaria);
 }
 
@@ -108,7 +106,6 @@ body {
 .hero-content {
     max-width: 800px;
     text-align: center;
-    /*padding: 0 20px;*/
 }
 
 .hero-image {
@@ -130,11 +127,8 @@ body {
 .hero p {
     font-family: var(--fonte-texto);
     font-size: 1rem;
-    /*font-weight: 400;*/
     color: var(--cor-texto-suave);
     margin-bottom: 16px;
-    /*text-transform: uppercase;
-    letter-spacing: 3px;*/
 }
 
 .hero-text {
@@ -182,21 +176,6 @@ body {
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
 }
-
-/*.about-content {
-    font-size: 2rem;
-    margin-bottom: 25px;
-    position: relative;
-}
-
-/*.about-content h2::after {
-    content: "";
-    width: 60px;
-    height: 3px;
-    background-color: var(--cor-primaria);
-    display: block;
-    margin-top: 10px;
-}*/
 
 .about h2 {
     font-family: var(--fonte-titulo);
