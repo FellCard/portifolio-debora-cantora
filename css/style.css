@@ -366,3 +366,24 @@ h2 {
     font-size: 0.85rem;
     color: rgba(255, 255, 255, 0.8);
 }
+
+/* RESPONSIVIDADE - TABLET */
+
+@media (max-width: 1024px) {
+    .about-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .videos-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .services-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .contact-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
